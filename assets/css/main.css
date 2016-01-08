@@ -2801,7 +2801,7 @@
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #9dc66b 5%, #B9DF00 30%, #263A09);
+		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #9dc66b 5%, #A4C400 30%, #3E4B00);
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		overflow: hidden;
@@ -2951,7 +2951,7 @@
 			-webkit-transition: opacity 1s ease;
 			-ms-transition: opacity 1s ease;
 			transition: opacity 1s ease;
-			background-image: linear-gradient(45deg, #B9DF00, #263A09);
+			background-image: linear-gradient(45deg, #A4C400, #3E4B00);
 			content: '';
 			height: 100%;
 			left: 0;
@@ -2988,7 +2988,7 @@
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("images/overlay2.png"), url("images/overlay4.svg"), linear-gradient(45deg, #263A09, #B9DF00 50%, #9dc66b 95%);
+		background-image: url("images/overlay2.png"), url("images/overlay4.svg"), linear-gradient(45deg, #3E4B00, #A4C400 50%, #9dc66b 95%);
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		text-align: center;
