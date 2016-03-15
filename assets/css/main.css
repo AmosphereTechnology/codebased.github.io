@@ -2801,7 +2801,7 @@
 		background-color: #ad33ff
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #9dc66b 5%, #cc00cc 30%, #4d004d);
+		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #cc66cc 5%, #cc00cc 30%, #4d004d);
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		overflow: hidden;
@@ -2989,7 +2989,7 @@
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("images/overlay2.png"), url("images/overlay4.svg"), linear-gradient(45deg, #3E4B00, #A4C400 50%, #9dc66b 95%);
+		background-image: url("images/overlay2.png"), url("images/overlay4.svg"), linear-gradient(45deg, #4d004d, #cc00cc 50%, #cc66cc 95%);
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		text-align: center;
