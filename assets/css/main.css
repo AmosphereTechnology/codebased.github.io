@@ -2798,7 +2798,7 @@
 
 	#header {
 		padding: 9em 0 9em 0 ;
-		background-color: #4686a0;
+		background-color: #ad33ff
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
 		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #9dc66b 5%, #cc00cc 30%, #4d004d);
@@ -2951,7 +2951,7 @@
 			-webkit-transition: opacity 1s ease;
 			-ms-transition: opacity 1s ease;
 			transition: opacity 1s ease;
-			background-image: linear-gradient(45deg, #A4C400, #3E4B00);
+			background-image: linear-gradient(45deg, #cc00cc, #800080);
 			content: '';
 			height: 100%;
 			left: 0;
