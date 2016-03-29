@@ -2798,7 +2798,7 @@
 
 	#header {
 		padding: 9em 0 9em 0 ;
-		background-color: #ad33ff
+		background-color: #343E3A
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
 		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #cc66cc 5%, #cc00cc 30%, #4d004d);
